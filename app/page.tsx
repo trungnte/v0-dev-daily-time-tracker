@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import TimeDisplay from "./time-display";
 
 export default function Home() {

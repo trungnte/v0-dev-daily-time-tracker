@@ -188,10 +188,10 @@ export default function TimeDisplay() {
             </div>
           </div>
           
-          {/* <div className="text-center text-sm text-muted-foreground dark:text-gray-400">
+          <div className="text-center text-sm text-muted-foreground dark:text-gray-400">
             <h3 className="font-semibold">Current Time</h3>
             <p className="font-mono">{formatTime(currentTime)}</p>
-          </div> */}
+          </div>
         </CardContent>
       </div>
     </Card>
